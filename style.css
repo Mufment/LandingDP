@@ -1,0 +1,97 @@
+body{
+
+    /*background-image: url("./images/FullBackground.jpg");*/
+    background-color: whitesmoke;
+
+  height: 100%;
+
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+nav-link{
+font-style: bold;
+
+
+}
+nav-link{
+font-style: bold;
+
+
+}
+
+.title{
+text-align: center;
+
+}
+
+.navbar .nav-item .nav-link {
+    color: white;
+}
+
+hr.dashed {
+  border-top: 3px dashed #bbb;
+}
+
+p{
+
+   font-size: 20px; 
+}
+h1{
+     text-align: center;
+}
+p,a,h1,li{
+    color: black;
+    
+}
+.section-Menu{
+    background-image: url("./images/Background1.jpg");
+    background-size: cover;
+
+}
+
+/*testimonio*/
+.testimonial_subtitle{
+    color: #0aaa7a;
+    font-size: 12px;
+}
+  .testimonial_btn{
+    background-color: #373d4b !important;
+    color: #fff !important;
+ }
+ .seprator {
+    height: 2px;
+    width: 56px;
+    background-color: #0aaa7a;
+    margin: 7px 0 10px 0;
+}
+
+/*final*/
+.final{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.candado{
+
+width:100px ;
+height:100px ;
+}
+
+
+
+.consulta{
+
+left: 680.47px;
+right: 149.86px;
+top: 4707px;
+bottom: 484px;
+
+background: #FFFFFF;
+border: 1px solid #444444;
+box-sizing: border-box;
+border-radius: 5px;
+}
